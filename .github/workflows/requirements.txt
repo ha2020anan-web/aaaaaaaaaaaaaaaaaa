@@ -1,0 +1,4 @@
+fastapi
+json
+secrets
+mangum
